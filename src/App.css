@@ -1,0 +1,40 @@
+.btn {
+  background-color: #9c61fb;
+  font-size: 20px;
+}
+
+.nav-contents .nav-link,
+.navbar-brand {
+  color: rgb(0, 0, 0);
+}
+
+.search-col {
+}
+
+.map-container {
+  height: 80vh;
+}
+
+#filtBtn {
+  background-color: pink;
+  border-color: pink;
+}
+
+.App {
+}
+
+hr {
+  margin: 0;
+}
+
+.images {
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+  margin-bottom: 3px;
+}
+
+.nav-link:hover {
+  background: #c9c9c9;
+  border-radius: 10px;
+}
